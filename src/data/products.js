@@ -54,7 +54,7 @@ const products = [
     image: "/products/asad.jpg",
     description: "Fragancia intensa con acordes especiados, vainilla, ámbar y maderas. Un aroma elegante con excelente duración.",
     stock: "Disponible",
-  }
+  },
   {
   id: 5,
   sku: "ELV-0005",
