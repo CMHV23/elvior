@@ -55,6 +55,21 @@ const products = [
     description: "Fragancia intensa con acordes especiados, vainilla, ámbar y maderas. Un aroma elegante con excelente duración.",
     stock: "Disponible",
   }
+  {
+  id: 5,
+  sku: "ELV-0005",
+  slug: "club-de-nuit-intense-man",
+  name: "Club de Nuit Intense Man",
+  brand: "Armaf",
+  category: "Masculino",
+  gender: "Hombre",
+  quality: "Presentación tipo original",
+  price: 149900,
+  image: "/products/club-de-nuit-intense-man.jpg",
+  description:
+    "Fragancia intensa con notas cítricas, abedul, almizcle y ámbar. Elegante, masculina y de excelente duración.",
+  stock: "Disponible",
+},
 ];
 
 export default products;
