@@ -45,7 +45,7 @@ const products = [
     id: 4,
     sku: "ELV-0004",
     slug: "asad",
-    name: "Asad",
+    name: "Asad Bourbon",
     brand: "Lattafa",
     category: "Masculino",
     gender: "Hombre",
